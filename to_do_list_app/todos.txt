@@ -1,0 +1,6 @@
+eat
+write
+sleep
+wake up
+Make soup
+make pizza
