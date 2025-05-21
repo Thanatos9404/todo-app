@@ -4,7 +4,7 @@ import time
 
 
 now = time.strftime("%b %d, %Y %H:%M:%S", time.localtime())
-print(now)
+print("It is: ", now)
 
 while True:
     user_action = input("Type add/new, show, edit, complete or exit: ")
