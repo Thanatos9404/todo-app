@@ -4,3 +4,6 @@ sleep
 wake up
 Make soup
 make pizza
+Buy a lambo
+Repair Harley
+Master Python
