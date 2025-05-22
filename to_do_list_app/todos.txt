@@ -1,9 +1,4 @@
-eat
-write
-sleep
-wake up
-Make soup
-make pizza
-Buy a lambo
+Clean the programBuy a lambo
 Repair Harley
 Master Python
+Learn MLLearning GUI
